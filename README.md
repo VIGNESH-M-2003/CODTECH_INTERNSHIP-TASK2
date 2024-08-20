@@ -20,9 +20,12 @@ vulnerabilities such as SQL injection, cross-site scripting (XSS), and insecure
 authentication mechanisms.
 
 Key Points for WEB APPLICATION PENETRATION TESTING:
-
 SQL Injection Testing.
+
 Cross-Site Scripting (XSS) Testing.
+
 Authentication Bypass Testing.
+
 Comprehensive Testing.
+
 Interpreting the Results.
